@@ -25,5 +25,5 @@ This repository contains a single-page product landing site for Range Rover. It 
 
 Product-Landing-Page/
 ├── index.html # Main HTML file
-├── tyles.css # CSS styling
+├── style.css # CSS styling
 └── README.md # This documentation
